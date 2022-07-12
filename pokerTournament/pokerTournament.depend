@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652587708 source:c:\users\saa\documents\pokertournament\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+	<ctime>
+	<string>
+
